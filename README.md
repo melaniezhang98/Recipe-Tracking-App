@@ -1,3 +1,1 @@
-# recipe-tracking-app
-# recipe-tracking-app
-# RecipeTrackingApp
+# Recipe Tracking App
